@@ -1,7 +1,5 @@
 .body {
-  background-attachment: fixed;
-  background-repeat: none;
-  height: 100%;
-  width: 100%
+ background:no-repeat center center fixed; 
+   background-size: cover;
 }
     
